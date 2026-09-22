@@ -1,1 +1,140 @@
-cl
+{
+  "schemaVersion": 1,
+  "identifier": "com.shinn.cheat",
+  "name": "Shinn Cheat",
+  "description": "Shinn Cheat Repository",
+  "accentColor": "#000000",
+  "icon": "YOUR_ICON_URL",
+  "packages": [
+    {
+      "identifier": "com.shinn.aimbodyffm",
+      "name": "Aim Body FFM",
+      "author": "Shinn Cheat",
+      "version": "3105",
+      "summary": "AIM - Body Free Fire Max",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Mhieuu/main/Aim%20Body%20FFM.3105",
+      "sha256": "7839590a4afd7ea2b7e96cd81f6f637bd1ba5fd4ab1e7044fa50d16a6e89a92a",
+      "size": 64428,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "99.9.9"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "YOUR_ICON_URL"
+    },
+    {
+      "identifier": "com.shinn.aimbodyffth",
+      "name": "Aim Body FFTH",
+      "author": "Shinn Cheat",
+      "version": "3105",
+      "summary": "AIM - Body Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Mhieuu/main/Aim%20Body%20FFTH.3105",
+      "sha256": "6cb0b0ba2d38dbead90db610d65b7f77587d419634e8f5809964fdd386139232",
+      "size": 64428,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "99.9.9"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "YOUR_ICON_URL"
+    },
+    {
+      "identifier": "com.shinn.aimchestffth",
+      "name": "Aim Chest FFTH",
+      "author": "Shinn Cheat",
+      "version": "3105",
+      "summary": "AIM - Chest Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Mhieuu/main/Aim%20chest%20FFTH.3105",
+      "sha256": "2abc832ec99f150c91a8a7ac40ea1faa89cd815837ea575e53a153e0f2463fe3",
+      "size": 64429,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "99.9.9"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "YOUR_ICON_URL"
+    },
+    {
+      "identifier": "com.shinn.aimdragffm",
+      "name": "Aim Drag FFM",
+      "author": "Shinn Cheat",
+      "version": "3105",
+      "summary": "AIM - Drag Free Fire Max",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire Max"
+      ],
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Mhieuu/main/Aim%20Drag%20FFM.3105",
+      "sha256": "4d882ab50ebc319b1191eb7a626d3dd694e0290fa8916b3b68256d13ae51a2df",
+      "size": 64428,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "99.9.9"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "YOUR_ICON_URL"
+    },
+    {
+      "identifier": "com.shinn.aimdragffth",
+      "name": "Aim Drag FFTH",
+      "author": "Shinn Cheat",
+      "version": "3105",
+      "summary": "AIM - Drag Free Fire",
+      "description": "Shinn Cheat Resource",
+      "category": "AIM",
+      "tags": [
+        "AIM",
+        "Free Fire"
+      ],
+      "publishedAt": "2026-09-22T00:00:00Z",
+      "download": "https://raw.githubusercontent.com/ShinnCheatCode/Mhieuu/main/Aim%20Drag%20FFTH.3105",
+      "sha256": "5f1c3eb4d1ac85e6c48323db152235ac8f887319f6cef6a76a70713b07509e74",
+      "size": 64428,
+      "supportedOS": [
+        {
+          "minimum": "17.0",
+          "maximum": "99.9.9"
+        }
+      ],
+      "featured": false,
+      "isPrivate": false,
+      "icon": "YOUR_ICON_URL"
+    },
+    {
+      "identifier": "com.shinn.aimmagicffth",
