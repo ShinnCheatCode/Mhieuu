@@ -125,7 +125,8 @@
       "featured": false,
       "isPrivate": false,
       "icon": "YOUR_ICON_URL"
-    },    {
+    },
+    {
       "identifier": "com.shinn.aimdragffm",
       "name": "Aim Drag FFM",
       "author": "Shinn Cheat",
@@ -324,7 +325,8 @@
       "featured": false,
       "isPrivate": false,
       "icon": "YOUR_ICON_URL"
-    },    {
+    },
+    {
       "identifier": "com.shinn.weaponpositionffm",
       "name": "Định Vị Súng FFM",
       "author": "Shinn Cheat",
@@ -366,4 +368,3 @@
     }
   ]
 }
-    
